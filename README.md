@@ -19,6 +19,8 @@
 
 * Vysor
 
->vysor 可以让你在电脑上显示和操作你的android设配，简直是android开发者的神器，大大提升了开发效率，默认是需要adb。
+>vysor 可以让你在电脑上显示和操作你的android设配，简直是android开发者的神器，大大提升了开发效率。默认是需要adb，但是这对于android开发者简直是小儿科啊！现在我每天都在用vysor，总于不用一直都按我的开机键亮屏了，总于不用一会低头看手机，一会抬头看log了，还不用忍受模拟器的卡顿，一天不用就感觉身体被掏空！
 
 >https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
+
+![](https://raw.githubusercontent.com/simplepeng/ChromeExtensionsRecommend/master/images/vysor.jpg)
