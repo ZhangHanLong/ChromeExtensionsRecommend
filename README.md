@@ -16,3 +16,9 @@
 >https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ja
 
 ![](https://raw.githubusercontent.com/simplepeng/ChromeExtensionsRecommend/master/images/octotree.png)
+
+* Vysor
+
+>vysor 可以让你在电脑上显示和操作你的android设配，简直是android开发者的神器，大大提升了开发效率，默认是需要adb。
+
+>https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
