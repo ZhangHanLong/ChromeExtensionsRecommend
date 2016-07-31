@@ -24,3 +24,11 @@
 >https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
 
 ![](https://raw.githubusercontent.com/simplepeng/ChromeExtensionsRecommend/master/images/vysor.jpg)
+
+* Postman
+
+>强大的api&http调试神器，并且可以调试简单的 HTML、CSS 以及脚本等简单的网页基本信息。
+
+>https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+
+![](https://lh3.googleusercontent.com/rSc2FWNLZRLpnPTOvT9OPXn47cbjtlS7Dprjc4Bmz37ktAXhWjdUz6H8IrO321f5E0QKkkkbRPo=s640-h400-e365-rw)
