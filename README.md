@@ -5,6 +5,7 @@
 >掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。
 
 > http://gold.xitu.io/extension/
+
 >https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb
 
 ![掘金截图](https://raw.githubusercontent.com/simplepeng/ChromeExtensionsRecommend/master/images/juejin.png)
@@ -32,3 +33,13 @@
 >https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
 ![](https://lh3.googleusercontent.com/rSc2FWNLZRLpnPTOvT9OPXn47cbjtlS7Dprjc4Bmz37ktAXhWjdUz6H8IrO321f5E0QKkkkbRPo=s640-h400-e365-rw)
+
+*  github-awesome-autocomplete
+
+>github 快速搜索插件，在搜索框输入关键字会动态索引弹出相关的项目，再也不用每次都输入全部名字接着回车啦!再也不怕哪次看见个很好的开源项目忘记star而后悔不已啦！
+
+>https://github.com/algolia/github-awesome-autocomplete
+
+>https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd?utm_source=chrome-ntp-icon
+
+![](https://raw.githubusercontent.com/algolia/github-awesome-autocomplete/master/capture.gif)
