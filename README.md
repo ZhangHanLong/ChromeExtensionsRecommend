@@ -43,3 +43,18 @@
 >https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd?utm_source=chrome-ntp-icon
 
 ![](https://raw.githubusercontent.com/algolia/github-awesome-autocomplete/master/capture.gif)
+
+* Octo Mate
+
+>又一个github插件
+ * 可以下载单个文件
+ * 提示未读消息和参与通知
+ * 显示仓库的大小
+ * 如果该项目又“gh pages” 就会显示“gh pages”的链接按钮
+ * 可以自定Tab 的 数量在2/4/8之间
+
+>https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon
+
+![](https://lh3.googleusercontent.com/Kqy1GJ4AhBhacfP32EpbPgXcqUCRgHD49zm3Lq98Kau9genJE8ZRzxsbIiFaSZRdj4Oj2asPPdU=s640-h400-e365-rw)
+
+![](https://lh3.googleusercontent.com/kTEhmep4hM1Mknr1ILHgFVIzS8a-WszsdKjV0qH8Qjp7M-rbYA-yNR-WA6voWY7gtG9DIBn7Uw=s640-h400-e365-rw)
